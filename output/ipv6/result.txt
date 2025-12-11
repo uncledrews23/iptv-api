@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 18:26:02,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$订阅源
+2025-12-11 18:25:24,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$订阅源
@@ -75,12 +75,16 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 南京新闻综合,https://www.freetv.top/migu/838109047.m3u8?migutoken=74a123656ffd42bf35e581516bd59c04fe4bcfe92f39e16931582e1b674ff2fc4d90da5f9b3dc796b8700456682cfb198f958ef81602312978e5168c1b35bb475fe775bf234a1c7965f918691c$订阅源
 
 🌊港·澳·台,#genre#
+明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
+明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
-凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd$订阅源
-凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd$订阅源
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
+凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -97,9 +101,9 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
 
 国际频道,#genre#
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
 CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276$订阅源
@@ -122,8 +126,6 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 🪁动画频道,#genre#
 优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
-火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866$订阅源
-火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
