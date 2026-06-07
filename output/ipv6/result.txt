@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-05 20:41:44,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250$订阅源
+2026-06-07 19:53:25,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250$订阅源
@@ -60,6 +60,10 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源
+海南卫视,http://b.xiongnas.top:8888/rtp/239.3.1.45:8304$订阅源
+海南卫视,http://b.xiongnas.top:8888/rtp/239.3.1.45:8304$订阅源
+海南卫视,http://a.xiongnas.top:8888/rtp/239.3.1.45:8304$订阅源
+海南卫视,http://a.xiongnas.top:8888/rtp/239.3.1.45:8304$订阅源
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86$订阅源
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac$订阅源
@@ -94,14 +98,12 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 江苏教育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
@@ -116,6 +118,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
@@ -132,13 +135,13 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
 
 国际频道,#genre#
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
-CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276$订阅源
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276$订阅源
+CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
+CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
 
 🎥咪咕直播,#genre#
 
@@ -165,3 +168,18 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源
 炫动卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
+中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
