@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-27 19:30:51,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f$订阅源
+2026-06-29 22:08:56,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f$订阅源
@@ -91,25 +91,26 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6
 江苏教育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
-翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
-翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
-翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
+翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
+翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
+翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
+翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
