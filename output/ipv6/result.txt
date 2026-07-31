@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-29 20:08:29,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+2026-07-31 20:05:34,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
@@ -25,9 +25,9 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
 
 国际频道,#genre#
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
 CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8$订阅源
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276$订阅源
@@ -59,16 +59,18 @@ RT Doc-Русский,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8$订阅源
 
 🪁动画频道,#genre#
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
 七龙珠,https://live.metshop.top/huya/11601966$订阅源
 七龙珠,https://live.metshop.top/huya/11601966$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
+猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
