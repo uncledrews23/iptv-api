@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-07 23:37:07,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+2026-09-09 22:15:38,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
@@ -19,7 +19,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -45,8 +44,8 @@ Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8$订阅源
 CBC News,https://jmp2.uk/stvp-CABC2300009KD$订阅源
 ABC News Live,https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8$订阅源
 Sky News,https://jmp2.uk/stvp-USBB52000022Q$订阅源
-Arirang,https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8$订阅源
-Arirang,https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8$订阅源
+TRT World,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577212.ts$订阅源
+TRT World,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/577212.ts$订阅源
 RT Español,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8$订阅源
 RT Español,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8$订阅源
 RT Français,https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8$订阅源
@@ -59,8 +58,6 @@ RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8$订阅源
 RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8$订阅源
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8$订阅源
 RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8$订阅源
-RT Doc-Русский,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8$订阅源
-RT Doc-Русский,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8$订阅源
 
 🎥咪咕直播,#genre#
 
@@ -90,7 +87,4 @@ RT Doc-Русский,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
