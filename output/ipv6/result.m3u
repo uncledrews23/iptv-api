@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/uncledrews23/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-15 22:44:25
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-17 21:33:08
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
@@ -17,28 +17,20 @@ http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="☘️江苏频道",江苏影视
-https://ysp.lml1971.ccwu.cc/js_jsys/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="☘️江苏频道",江苏影视
-https://ysp.lml1971.ccwu.cc/js_jsys/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="☘️江苏频道",江苏教育
-https://ysp.lml1971.ccwu.cc/js_jsjy/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
-http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148$订阅源
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
-http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148$订阅源
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊港·澳·台",J2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Viutv.png" group-title="🌊港·澳·台",Viutv
@@ -50,11 +42,11 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际频道",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRT World.png" group-title="国际频道",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRT World.png" group-title="国际频道",TRT World
@@ -72,13 +64,13 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8$订阅源
 #EXTINF:-1 tvg-name="RT Arabic" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT Arabic.png" group-title="国际频道",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8$订阅源
 #EXTINF:-1 tvg-name="RT DE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT DE.png" group-title="国际频道",RT DE
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8$订阅源
-#EXTINF:-1 tvg-name="RT DE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT DE.png" group-title="国际频道",RT DE
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8$订阅源
-#EXTINF:-1 tvg-name="RT DE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT DE.png" group-title="国际频道",RT DE
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8$订阅源
 #EXTINF:-1 tvg-name="RT DE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT DE.png" group-title="国际频道",RT DE
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8$订阅源
+#EXTINF:-1 tvg-name="RT DE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT DE.png" group-title="国际频道",RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8$订阅源
+#EXTINF:-1 tvg-name="RT DE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT DE.png" group-title="国际频道",RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8$订阅源
 #EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT Documentary.png" group-title="国际频道",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8$订阅源
 #EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RT Documentary.png" group-title="国际频道",RT Documentary
